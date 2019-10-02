@@ -1,31 +1,31 @@
 body {
   /* font-family: Monaco sans-serif; */
-  background: #581845;
+  background: #808080;
 }
 
 .card {
   background: #6a5acd;
-  color: white;
+  color: yellow;
   border-color: #ee82ee;
 }
 
 nav {
   background: #121212;
-  color: white;
+  color: yellow;
 }
 
 h3 {
-  color: white;
+  color: yellow;
 }
 
 .form-group input::placeholder {
-  color: white;
+  color: yellow;
 }
 
 .form-group input[type="text"] {
   background: #121212;
   border: 2px solid #ee82ee;
-  color: white;
+  color: yellow;
 }
 
 input[type="text"]:focus {
